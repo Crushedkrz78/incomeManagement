@@ -6,6 +6,7 @@ Calculate income status using an Input Data File (CSV File) from an Excel File
 import csv
 
 
+
 """
 For this file it's needed to make calculations with some specific columns.
 1, 4, 5...
